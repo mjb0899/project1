@@ -6,7 +6,7 @@
  * Time: 13:08
  */
 //create connection
-include("connection.php");
+include("dbConnect.php");
 
 //validation
 if(empty($_POST["username"])||empty($_POST["password"]))
