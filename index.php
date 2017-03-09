@@ -6,7 +6,7 @@
 <body>
 <h1>Login form with session</h1>
 <div class="loginBox">
-    <h3>Login form</h3>
+    <h3>Login form ...</h3>
     <br><br>
     <form method="post" action="login.php">
         <label>username</label>
